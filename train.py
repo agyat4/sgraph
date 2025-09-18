@@ -376,7 +376,6 @@ def main(argv):
         net.load_state_dict(checkpoint["state_dict"])
 
         #print(net)
-        #print("optimizer_parameters:",checkpoint["optimizer"])
         #optimizer.load_state_dict(checkpoint["optimizer"])
         #aux_optimizer.load_state_dict(checkpoint["aux_optimizer"])
 
