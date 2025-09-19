@@ -1,6 +1,6 @@
 # Spectral and Spatial Graph Learning for Multispectral Solar Image Compression
 
-Instructiions will be updated soon.........
+Instructions for usage will be updated soon.........
 
 ## Related links
  * CompressAI: https://github.com/InterDigitalInc/CompressAI
